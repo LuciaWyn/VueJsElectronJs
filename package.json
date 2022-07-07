@@ -6,7 +6,7 @@
   "author": "Lucy Wynne-Jones",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^18.2.0",
+    "electron": "^19.0.4",
     "laravel-mix": "^6.0.43",
     "vue-loader": "^17.0.0"
   },
